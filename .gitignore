@@ -1,5 +1,23 @@
+# Python
 .venv/
 __pycache__/
 *.pyc
+*.pyo
+
+# Environment
 .env
+.env.*
+
+# PyCharm
 .idea/
+
+# Node / React
+node_modules/
+frontend/dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
